@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+![developer-with-his-tools](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 ### Hi there 👋
 
 <!--
