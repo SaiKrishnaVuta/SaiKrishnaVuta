@@ -1,7 +1,7 @@
 # <samp>Gopi Sai Krishna Vuta </samp><img src="https://github.com/SaiKrishnaVuta/SaiKrishnaVuta/blob/main/VGSK_LOGO.jpg" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/gopisaikrishnavuta/)](https://www.linkedin.com/in/gopisaikrishnavuta/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:saikrishnavuta7@gmail.com)](saikrishnavuta7@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:saikrishnavuta7@gmail.com)](mailto:saikrishnavuta7@gmail.com)
 
 ## <samp>Hello World!</samp> <img src="https://github.com/SaiKrishnaVuta/SaiKrishnaVuta/blob/main/earth.gif" width="22px">
 
